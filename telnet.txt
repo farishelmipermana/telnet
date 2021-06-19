@@ -1,0 +1,5 @@
+sudo apt-get install telnet
+
+telnet <nama host> <nama port>
+
+note: selalu baca panduan RFC pada port
